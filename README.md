@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Jose%20Plasencia&height=150&fontSize=60&fontAlign=25&desc=Web%20Developer&descAlignY=75&descAlign=10)
+
 ### Hi there 👋
 
 - 📫 How to reach me: \
