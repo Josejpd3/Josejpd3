@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+Web Developer focused on bringing value.
+
+I'm a passionate everyday learner and Software Engineer with experience building and testing numerous useful applications that drastically increase productivity and work output to create a better experience for users. I enjoy working with JavaScript, HTML, CSS, Node.js, React.js and much more.
+
 - 📫 How to reach me: \
   LinkedIn: [Jose Plasencia](https://www.linkedin.com/in/jose-plasencia/) \
   Email: josejpd3@gmail.com
