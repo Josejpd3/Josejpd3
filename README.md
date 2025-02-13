@@ -7,7 +7,7 @@ Web Developer focused on bringing value.
 I'm a passionate everyday learner with experience building and testing numerous useful applications that drastically increase productivity and work output to create a better experience for users. I enjoy working with JavaScript, HTML, CSS, Node.js, React.js and much more.
 
 - 📖 Learn more about me: \
-  [Portfolio](https://josejpd3.github.io/Main-Portfolio/) | [LinkedIn](https://www.linkedin.com/in/jose-plasencia/)
+  [Portfolio](https://plasencia.dev/) | [LinkedIn](https://www.linkedin.com/in/jose-plasencia/)
   
 - 📫 Contact Me: \
   Email: josejpd3@gmail.com
