@@ -1,8 +1,8 @@
-![](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Jose%20Plasencia&height=150&fontSize=60&fontAlign=25&desc=Web%20Developer&descAlignY=75&descAlign=10)
+![](https://capsule-render.vercel.app/api?type=transparent&fontColor=4584fa&text=Jose%20Plasencia&height=150&fontSize=60&fontAlign=25&desc=Software%20Engineer&descAlignY=75&descAlign=10)
 
 ### Hi there 👋
 
-Web Developer focused on bringing value.
+Software Engineer focused on bringing value.
 
 I'm a passionate everyday learner with experience building and testing numerous useful applications that drastically increase productivity and work output to create a better experience for users. I enjoy working with JavaScript, HTML, CSS, Node.js, React.js and much more.
 
